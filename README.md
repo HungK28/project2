@@ -16,4 +16,5 @@ The datasets we will use are from Kaggle:
 # LOAD
 * Created database movies_db in PgAdmin, then created an engine connection to load the IMDb and Netflix to the movies_db as table names imdb and netflix.
 * We confirmed the data was added by query.
+* There is an entity relationship diagram of movies_db tables in the Resources Folder called *Movies_ERD.PNG*
 * We created this report on IMDb and Netflix to summarize netflix movies and series with an IMDb rating.
